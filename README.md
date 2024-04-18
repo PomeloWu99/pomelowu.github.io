@@ -14,7 +14,7 @@ Investigated the causal impact of abolishing the death penalty on violent crime 
 Developed a model to predict the genre of books based on their descriptions using Latent Dirichlet Allocation (LDA) and Naive Bayes classifiers. This project enhances automated cataloging and recommendation systems.
 
 ### Statistical Models and Machine Learning
-#### [Survival Analysis](#link)
+#### [Survival Analysis](https://github.com/PomeloWu99/survival_analysis/tree/main))
 Performed survival analysis to determine the factors that significantly impact patient outcomes in clinical trials. The study utilizes advanced regression techniques to improve treatment strategies.
 
 #### [UAS Semantic Segmentation for Safe Landing](https://github.com/YZhu0225/UAS-Semantic-Segmentation-for-Safe-Landing) 
