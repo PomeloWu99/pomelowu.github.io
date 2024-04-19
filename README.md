@@ -28,3 +28,7 @@ Welcome to my project portfolio! Here you can explore a variety of projects I've
   Leveraging Azure's computing capabilities to analyze and interpret Formula 1 racing data for strategic insights.
 - **[Breast Cancer Prognosis Model](https://github.com/biostat821-2023/Final__project)**  
   A Python interface for managing and analyzing breast cancer data, including demographic and clinical information via a SQLite database. This tool allows users to modify data and perform detailed analyses to aid in breast cancer research.
+
+## Certificates
+
+**[AWS Cloud Practitioner](https://www.credly.com/badges/43775262-fe7a-4197-a8e7-5f5ddab93846/public_url)**
