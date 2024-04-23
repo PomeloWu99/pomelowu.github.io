@@ -7,7 +7,7 @@ Welcome to my project portfolio! Here you can explore a variety of projects I've
   Comprehensive analysis of Adidas sales data to uncover key trends using advanced SQL techniques.
 
 ## Data Visualizations
-- **[Repo]()**
+- **[Repo](https://github.com/PomeloWu99/data_viz/tree/main)**
 
 ## 📈 Econometrics and Modeling
 - **[Causal Analysis of the Death Penalty’s Impact on Crime](https://github.com/MIDS-at-Duke/unifying-data-science-2023-project-ids701_team2)**  
