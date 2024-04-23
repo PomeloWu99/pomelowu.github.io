@@ -6,6 +6,9 @@ Welcome to my project portfolio! Here you can explore a variety of projects I've
 - **[Adidas Sales Data SQL Analysis](https://github.com/PomeloWu99/Data-Engineering-Projects/tree/main/Adidas_Sales_Analysis_Project)**  
   Comprehensive analysis of Adidas sales data to uncover key trends using advanced SQL techniques.
 
+## Data Visualizations
+- **[Repo]()**
+
 ## 📈 Econometrics and Modeling
 - **[Causal Analysis of the Death Penalty’s Impact on Crime](https://github.com/MIDS-at-Duke/unifying-data-science-2023-project-ids701_team2)**  
   This econometric study assesses how the abolition of the death penalty affects violent crime rates across 42 U.S. states.
